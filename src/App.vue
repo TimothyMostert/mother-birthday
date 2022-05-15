@@ -33,7 +33,7 @@
       <div class="flex justify-center items-center font-sans">Or better yet to experience nature... that's the real deal.</div>
       <img src="@/assets/in-nature.jpg" alt="">
       <img src="@/assets/memes.jpg" alt="">
-      <div class="flex justify-center items-center font-sans">A;ways the connoisseur of dank memes</div>
+      <div class="flex justify-center items-center font-sans">Always the connoisseur of dank memes</div>
       <div class="flex justify-center items-center font-sans">And certainly the most bestest of mothers around!</div>
       <img src="@/assets/tim-jan.jpg" alt="">
     </div>
